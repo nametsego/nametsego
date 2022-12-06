@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 , I am Nametsego.
+
+Welcome to my github profile
+
+The 🌍 wont dominate itself
 
 <!--
 **nametsego/nametsego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
